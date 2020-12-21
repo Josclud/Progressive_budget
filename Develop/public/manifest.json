@@ -1,0 +1,20 @@
+{
+  "name": "Bugeting Application",
+  "short_name": "Budgeting App",
+  "icons": [
+    {
+      "src": "/assets/icons/tasks.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/plus.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "start_url": "/",
+  "display": "standalone"
+}
